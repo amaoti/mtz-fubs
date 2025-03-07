@@ -35,3 +35,8 @@ $theme-colors: map-merge(
 #title {
   background-color: #b48f02;
 }
+
+#title h1, #title p {
+  color: white !important;
+}
+
