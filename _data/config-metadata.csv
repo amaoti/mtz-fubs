@@ -13,3 +13,6 @@ type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
+field_test_1,Field Test 1,,
+field_test_2,Field Test 2,,true
+field_test_3,Field Test 3,,true
