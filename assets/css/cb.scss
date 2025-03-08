@@ -31,12 +31,3 @@ $theme-colors: map-merge(
 {% endif %}
 
 @import "base", "pages", "custom";
-
-#title {
-  background-color: #b48f02;
-}
-
-#title h1, #title p {
-  color: white !important;
-}
-
