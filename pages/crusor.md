@@ -4,10 +4,14 @@ layout: default
 permalink: /models/crusor.html
 ---
 
-<h2>Dr. Collin B. Crusor's 3D Model</h2>
+<div style="text-align: center;">
+  
+  <h2>Dr. Collin B. Crusor's 3D Model</h2>
 
-{% include item/o3dv-embed.html model="/objects/crusor.glb" %}
+  {% include item/o3dv-embed.html model="/objects/crusor.glb" %}
 
-<p>Explore the interactive 3D model above.</p>
+  <p>Explore the interactive 3D model above.</p>
 
-<a href="mtz-fubs/3d_exhibit.html">← Back to 3D Exhibit</a>
+  <a href="https://amaoti.github.io/mtz-fubs/3d_exhibit.html">← Back to 3D Exhibit</a>
+
+</div>
