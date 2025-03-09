@@ -6,4 +6,11 @@ layout: default
 {{ content }}
 </div>
 
+<div style="text-align: center;">
+    {% include item/o3dv-embed.html model="/objects/your_model.glb" %}
+    <br><br>
+    <p>Explore the interactive 3D model above.</p>
+    <a href="https://amaoti.github.io/mtz-fubs/3d_exhibit.html">← Back to 3D Exhibit</a>
+  </div>
+
 {% if page.credits == true %}{% include cb/credits.html %}{% endif %}
