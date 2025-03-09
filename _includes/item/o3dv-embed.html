@@ -15,10 +15,16 @@
 </div>
 <script type="text/javascript" src="{{ '/assets/lib/o3dv/o3dv.min.js' | relative_url }}"></script>
 <script>
-    window.addEventListener ('load', () => {
-        // tell the engine where to find the libs folder
-        OV.SetExternalLibLocation ('libs');
-        // init all viewers on the page
-        OV.Init3DViewerElements ();
+    window.addEventListener('load', () => {
+    OV.SetExternalLibLocation('libs');
+
+    document.querySelectorAll('.online_3d_viewer').forEach((viewerElement, index) => {
+        if (!viewerElement.dataset.o3dvInitialized) {
+            viewerElement.id = `o3dv-viewer-${index}`; // Assign unique IDs
+            
+            OV.Init3DViewerElements();
+            viewerElement.dataset.o3dvInitialized = "true"; // Prevent re-initialization
+        }
     });
+});
 </script>
