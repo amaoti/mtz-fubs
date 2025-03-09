@@ -1,6 +1,6 @@
 ---
 title: Dr. Collin B. Crusor's 3D Model
-layout: default
+layout: item
 permalink: /models/crusor.html
 ---
 
@@ -9,6 +9,8 @@ permalink: /models/crusor.html
   <h2>Dr. Collin B. Crusor's 3D Model</h2>
 
   {% include item/o3dv-embed.html model="/objects/crusor.glb" %}
+
+<br><br>
 
   <p>Explore the interactive 3D model above.</p>
 
