@@ -17,7 +17,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Dr. Collin B. Crusor
 
-![Dr. Collin B. Crusor's Grave Marker]({{ "/mtz-fubs/objects/crusor.jpg" | relative_url }})
+![Crusor]({{ "/objects/crusor.JPG" | relative_url }})
 
 View the interactive 3D model here:  
 ➡️ **[Dr. Crusor's 3D Model](models/crusor.html)**
