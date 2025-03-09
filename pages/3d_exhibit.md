@@ -11,6 +11,8 @@ credits: false
 
 ## About the Collection
 
+{% include item/o3dv-embed.html model="/objects/mtzfubs006.glb" %}
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 Urna convallis laoreet leo, per ipsum aliquam. Donec adipiscing lectus dignissim curae varius fermentum viverra! Lectus mauris elit rhoncus odio at. Massa vulputate consequat aptent; primis quisque elementum. Pellentesque amet suscipit velit pellentesque tempor placerat non laoreet. Accumsan dignissim dictum; curae nunc himenaeos potenti. Dolor nunc tempor consequat venenatis vel ridiculus taciti.
