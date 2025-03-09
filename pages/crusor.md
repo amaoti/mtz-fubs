@@ -10,4 +10,4 @@ permalink: /models/crusor.html
 
 <p>Explore the interactive 3D model above.</p>
 
-<a href="/3d_exhibit.html">← Back to 3D Exhibit</a>
+<a href="mtz-fubs/3d_exhibit.html">← Back to 3D Exhibit</a>

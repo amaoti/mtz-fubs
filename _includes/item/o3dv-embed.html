@@ -15,10 +15,18 @@
 </div>
 <script type="text/javascript" src="{{ '/assets/lib/o3dv/o3dv.min.js' | relative_url }}"></script>
 <script>
-    window.addEventListener ('load', () => {
-        // tell the engine where to find the libs folder
-        OV.SetExternalLibLocation ('libs');
-        // init all viewers on the page
-        OV.Init3DViewerElements ();
+    window.addEventListener('load', () => {
+        OV.SetExternalLibLocation('libs');
+
+        OV.Init3DViewerElements(() => {
+            let viewerElement = document.querySelector('.online_3d_viewer');
+            if (viewerElement && viewerElement.viewer) {
+                let viewer = viewerElement.viewer;
+
+                // Add ambient light to brighten the model
+                let ambientLight = new THREE.AmbientLight(0xffffff, 2.0);
+                viewer.renderer.scene.add(ambientLight);
+            }
+        });
     });
 </script>
