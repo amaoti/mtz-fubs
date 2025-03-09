@@ -7,7 +7,15 @@ layout: default
 </div>
 
 <div style="text-align: center;">
-    {% include item/o3dv-embed.html model="/objects/your_model.glb" %}
+    <model-viewer src="{{ '/objects/your_model.glb' | relative_url }}"
+                  alt="3D Model"
+                  style="width: 100%; height: 600px;"
+                  exposure="1.5"
+                  environment-image="path/to/your/environment.hdr"
+                  background-image="path/to/your/background.jpg"
+                  shadow-intensity="1"
+                  camera-controls>
+    </model-viewer>
     <br><br>
     <p>Explore the interactive 3D model above.</p>
     <a href="https://amaoti.github.io/mtz-fubs/3d_exhibit.html">← Back to 3D Exhibit</a>
