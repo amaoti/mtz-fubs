@@ -19,6 +19,12 @@ Urna convallis laoreet leo, per ipsum aliquam. Donec adipiscing lectus dignissim
 
 Metus commodo enim vehicula pellentesque praesent, porta id nibh quisque. Natoque quisque ullamcorper potenti finibus condimentum libero molestie habitant nam. Orci consequat lacinia aptent rutrum condimentum donec aliquet orci. Sem senectus id pretium felis facilisis montes? Metus lorem nam porta adipiscing vitae, tristique nulla quam. Bibendum scelerisque congue pulvinar ac porttitor fringilla penatibus. Nostra tincidunt maecenas per porta posuere pellentesque turpis nec dolor. Dolor potenti pharetra potenti felis velit. Montes suspendisse integer dis cras habitant senectus aliquet. Urna maximus est congue nisl at viverra nisl.
 
+## Dr. Collin B. Crusor
+
+{% include item/o3dv-embed.html model="/objects/crusor.glb" %}
+
+Dr. Collin Barton Crusor Jr. (1856–1904) was a respected African American physician who served Georgetown’s "Herring Hill" community. A graduate of Howard University’s School of Medicine and Pharmacy in 1883, he provided critical medical care to Black residents in Washington, D.C., at a time when access to healthcare was deeply unequal. His work reflected the resilience and dedication of Black professionals in the post-Reconstruction era. Crusor is interred at Mount Zion Cemetery, where his grave marker stands as a testament to his legacy.
+
 ## Links & References
 
 - [Black Georgetown Foundation](https://www.mtzion-fubs.org/)
