@@ -1,6 +1,6 @@
 ---
 title: Dr. Collin B. Crusor's 3D Model
-layout: item
+layout: about
 permalink: /models/crusor.html
 ---
 
