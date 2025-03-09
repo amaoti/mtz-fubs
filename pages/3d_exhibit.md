@@ -21,7 +21,7 @@ Metus commodo enim vehicula pellentesque praesent, porta id nibh quisque. Natoqu
 
 ## Dr. Collin B. Crusor
 
-![Dr. Collin B. Crusor's Grave Marker](objects/crusor.jpg)
+![Dr. Collin B. Crusor's Grave Marker]({{ "/mtz-fubs/objects/crusor.jpg" | relative_url }})
 
 {% include item/o3dv-embed.html model="/objects/crusor.glb" %}
 
