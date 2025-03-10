@@ -72,7 +72,7 @@ $theme-colors: map-merge(
         font-size: 1.2em;
     }
     .sidebar-toggle {
-        position: fixed;
+        position: sticky;
         top: 20px;
         left: 20px;
         background: #0073e6;
