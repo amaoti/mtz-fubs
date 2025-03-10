@@ -1,11 +1,23 @@
 document.addEventListener("DOMContentLoaded", function () {
-    let sidebar = document.getElementById("sidebar");
+    let sidebar = document.querySelector(".sidebar");
     let sidebarToggle = document.querySelector(".sidebar-toggle");
+    let sidebarLinks = document.querySelectorAll(".sidebar a");
 
     function toggleSidebar() {
         sidebar.classList.toggle("active");
-        sidebarToggle.textContent = sidebar.classList.contains("active") ? "✖ Close" : "☰ Stories";
+        if (sidebar.classList.contains("active")) {
+            sidebarToggle.textContent = "✖ Close";
+        } else {
+            sidebarToggle.textContent = "☰ Stories";
+        }
     }
 
     sidebarToggle.addEventListener("click", toggleSidebar);
+
+    sidebarLinks.forEach(link => {
+        link.addEventListener("click", () => {
+            sidebar.classList.remove("active");
+            sidebarToggle.textContent = "☰ Stories";
+        });
+    });
 });
