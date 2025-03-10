@@ -11,7 +11,7 @@ credits: false
 
 
 ## About the Collection {#about-the-collection}
-{% include item/o3dv-embed.html model="/objects/nannie.glb" %}
+
 <br>
 <br>
 
