@@ -8,7 +8,7 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 ---
 {% include sidebar.html %}
-{% include feature/jumbotron.html 
+{% include feature/jumbotron_3d.html 
    objectid="/assets/img/home_banner.jpg"
    heading="Welcome to the 3D Exhibit"
    text="Explore digitized artifacts with high-fidelity 3D scans."
