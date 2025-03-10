@@ -7,7 +7,8 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-{% include feature/nav-menu.html sections="About the Collection" %}
+{% include feature/nav-menu.html sections="About the Collection, Dr. Collin B. Crusor" %}
+
 
 ## About the Collection
 {% include item/o3dv-embed.html model="/objects/nannie.glb" %}
