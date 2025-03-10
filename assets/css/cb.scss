@@ -34,21 +34,21 @@ $theme-colors: map-merge(
 
 .sidebar {
   position: fixed;
-  top: 100px;
-  left: -280px;
+  top: 0;
+  left: -270px;
   width: 270px;
+  height: 100vh;
   background: #022344;
-  padding: 15px;
-  border-radius: 8px;
+  padding: 20px;
+  border-radius: 0;
   box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
-  max-height: 80vh;
   overflow-y: auto;
   transition: left 0.3s ease-in-out;
   z-index: 1000;
 }
 
 .sidebar.active {
-  left: 20px;
+  left: 0;
 }
 
 .sidebar h3 {
@@ -86,12 +86,12 @@ $theme-colors: map-merge(
 
 
 .sidebar-toggle {
-  position: fixed;
-  top: 20px;
-  left: 20px;
+  position: absolute;
+  top: 15px;
+  right: -50px;
   background: #022344;
   color: white;
-  padding: 12px 16px;
+  padding: 10px 15px;
   border: none;
   cursor: pointer;
   z-index: 1100;
@@ -105,27 +105,17 @@ $theme-colors: map-merge(
 }
 
 
-.sidebar-toggle.hidden {
-  display: none;
-}
-
-
 @media screen and (max-width: 768px) {
   .sidebar {
-      left: -280px;
+      left: -270px;
       width: 250px;
-      height: 100vh;
   }
 
   .sidebar.active {
       left: 0;
   }
-
-  .sidebar-toggle {
-      top: 15px;
-      left: 15px;
-  }
 }
+
 
 
 
