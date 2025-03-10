@@ -42,4 +42,16 @@ View the interactive 3D model here:
 Dr. Collin Barton Crusor Jr. (1856–1904) was a respected African American physician who served Georgetown’s "Herring Hill" community. A graduate of Howard University’s School of Medicine and Pharmacy in 1883, he provided critical medical care to Black residents in Washington, D.C., at a time when access to healthcare was deeply unequal. His work reflected the resilience and dedication of Black professionals in the post-Reconstruction era. Crusor is interred at Mount Zion Cemetery, where his grave marker stands as a testament to his legacy.
 
 
-
+{% raw %}
+<div style="width: 100%; max-width: 1000px; margin: auto;">
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe title="[Test] Nannie's Gravestone" 
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+      frameborder="0" allowfullscreen 
+      mozallowfullscreen="true" webkitallowfullscreen="true" 
+      allow="autoplay; fullscreen; xr-spatial-tracking" 
+      src="https://sketchfab.com/models/79cd12521852499499d4e9470ade6494/embed">
+    </iframe>
+  </div>
+</div>
+{% endraw %}
