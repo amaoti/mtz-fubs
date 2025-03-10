@@ -14,8 +14,6 @@ credits: false
    text="Explore digitized artifacts with high-fidelity 3D scans."
 %}
 
-
-#Mt. Zio
 ## About the Collection {#about-the-collection}
 {% raw %}
 <div style="width: 100%; max-width: 1000px; margin: auto;">
