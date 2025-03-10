@@ -10,9 +10,22 @@ permalink: /models/crusor.html
 
   {% include item/o3dv-embed.html model="/objects/crusor.glb" %}
 
+
 <br><br>
 
-<p><i>Left click to adjust angle | Right click to move object | Scroll to zoom  </i></p>
+  <model-viewer 
+      src="{{ '/objects/crusor.glb' | relative_url }}"
+      alt="3D Model of Dr. Crusor"
+      style="width: 100%; height: 600px;"
+      exposure="1.5"
+      shadow-intensity="1"
+      camera-controls
+      auto-rotate
+      background-color="#ffffff"
+      environment-image="path/to/your/environment.hdr">
+  </model-viewer>
+
+<p><i>Left click to adjust angle | Right click to move camera | Scroll to zoom  </i></p>
 
   <a href="https://amaoti.github.io/mtz-fubs/3d_exhibit.html">← Back to 3D Exhibit</a>
 
