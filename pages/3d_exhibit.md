@@ -8,7 +8,12 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 ---
 {% include sidebar.html %}
-{% include feature/jumbotron_3d.html objectid="https://www.nps.gov/common/uploads/cropped_image/primary/0A5D4829-9C6B-F62E-5CE62DBE8A2A5FC2.jpg?width=1600&quality=90&mode=crop" %}
+{% include feature/jumbotron.html 
+   objectid="/assets/img/home_banner.jpg"
+   heading="Welcome to the 3D Exhibit"
+   text="Explore digitized artifacts with high-fidelity 3D scans."
+%}
+
 
 #Mt. Zio
 ## About the Collection {#about-the-collection}
