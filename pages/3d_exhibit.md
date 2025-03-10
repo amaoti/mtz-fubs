@@ -11,16 +11,22 @@ credits: false
 
 ## About the Collection
 {% include item/o3dv-embed.html model="/objects/nannie.glb" %}
+<br></br>
 
 {% raw %}
-<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
-  <iframe title="[Test] Nannie's Gravestone" frameborder="0" allowfullscreen 
-    mozallowfullscreen="true" webkitallowfullscreen="true" 
-    allow="autoplay; fullscreen; xr-spatial-tracking" 
-    src="https://sketchfab.com/models/79cd12521852499499d4e9470ade6494/embed">
-  </iframe>
+<div style="width: 100%; max-width: 1000px; margin: auto;">
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe title="[Test] Nannie's Gravestone" 
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+      frameborder="0" allowfullscreen 
+      mozallowfullscreen="true" webkitallowfullscreen="true" 
+      allow="autoplay; fullscreen; xr-spatial-tracking" 
+      src="https://sketchfab.com/models/79cd12521852499499d4e9470ade6494/embed">
+    </iframe>
+  </div>
 </div>
 {% endraw %}
+
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
