@@ -4,8 +4,8 @@ creator,Creator,
 date,Date Created,
 description,Description,
 internet_archive_link,Internet Archive Capture,,true
-wacz_download_link,WACZ File,,true
-pdf_download_link,PDF of Site,,true
+wacz_download_link,WACZ Download,,true
+pdf_download_link,PDF Download,,true
 subject,Subjects,true
 location,Location
 latitude,Latitude
