@@ -1,8 +1,13 @@
 <div class="sidebar">
     <h3>Table of Contents</h3>
     <ul>
-      <li><a href="#about-the-collection">About the Collection</a></li>
-      <li><a href="#dr-collin-b-crusor">Dr. Collin B. Crusor</a></li>
+      {% for heading in content | split: '<h2' %}
+        {% if forloop.first == false %}
+          {% assign heading_text = heading | split: '</h2>' | first | strip_html %}
+          {% assign heading_id = heading_text | slugify %}
+          <li><a href="#{{ heading_id }}">{{ heading_text }}</a></li>
+        {% endif %}
+      {% endfor %}
     </ul>
   </div>
   

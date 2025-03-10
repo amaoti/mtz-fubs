@@ -31,3 +31,30 @@ $theme-colors: map-merge(
 {% endif %}
 
 @import "base", "pages", "custom";
+
+.sidebar {
+  position: fixed;   /* Keeps it in place while scrolling */
+  top: 100px;        /* Adjusts how high it starts */
+  left: 20px;        /* Positions it on the left side */
+  width: 250px;
+  background: #f8f8f8;
+  padding: 10px;
+  border: 1px solid #ddd;
+  max-height: 80vh;  /* Prevents it from taking too much space */
+  overflow-y: auto;  /* Adds scroll inside if content is too long */
+}
+.sidebar ul {
+  list-style-type: none;
+  padding: 0;
+}
+.sidebar li {
+  margin-bottom: 10px;
+}
+.sidebar a {
+  text-decoration: none;
+  color: #0073e6;
+  display: block;
+}
+.sidebar a:hover {
+  text-decoration: underline;
+}
