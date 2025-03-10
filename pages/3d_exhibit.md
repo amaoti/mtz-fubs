@@ -32,6 +32,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Dr. Collin B. Crusor {#dr-collin-b-crusor}
 
 ![Crusor]({{ "/objects/crusor.JPG" | relative_url }})
+
 Dr. Collin Barton Crusor Jr. (1856–1904) was a respected African American physician who served Georgetown’s "Herring Hill" community. A graduate of Howard University’s School of Medicine and Pharmacy in 1883, he provided critical medical care to Black residents in Washington, D.C., at a time when access to healthcare was deeply unequal. His work reflected the resilience and dedication of Black professionals in the post-Reconstruction era. Crusor is interred at Mount Zion Cemetery, where his grave marker stands as a testament to his legacy.
 
 
@@ -51,6 +52,7 @@ Dr. Collin Barton Crusor Jr. (1856–1904) was a respected African American phys
 
 ## Frances Poindexter {#frances-poindexter}
 ![Crusor]({{ "/objects/crusor.JPG" | relative_url }})
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
