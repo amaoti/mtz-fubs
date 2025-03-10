@@ -1,28 +1,26 @@
 document.addEventListener("DOMContentLoaded", function () {
     let sidebar = document.querySelector(".sidebar");
     let sidebarToggle = document.querySelector(".sidebar-toggle");
-    let startOffset = sidebar.offsetTop;
-    let marginTop = 20;
-    let isSidebarOpen = false;
+    let sidebarLinks = document.querySelectorAll(".sidebar a");
 
     function toggleSidebar() {
         sidebar.classList.toggle("active");
-        isSidebarOpen = !isSidebarOpen;
+        sidebarToggle.classList.toggle("hidden"); 
     }
 
     sidebarToggle.addEventListener("click", toggleSidebar);
 
-    window.addEventListener("scroll", function () {
-        let scrollTop = window.scrollY;
+    sidebarLinks.forEach(link => {
+        link.addEventListener("click", () => {
+            sidebar.classList.remove("active");
+            sidebarToggle.classList.remove("hidden"); 
+        });
+    });
 
-        if (!isSidebarOpen) {
-            if (scrollTop > startOffset - marginTop) {
-                sidebar.style.position = "fixed";
-                sidebar.style.top = marginTop + "px";
-            } else {
-                sidebar.style.position = "absolute";
-                sidebar.style.top = startOffset + "px";
-            }
+    document.addEventListener("click", function (event) {
+        if (!sidebar.contains(event.target) && !sidebarToggle.contains(event.target)) {
+            sidebar.classList.remove("active");
+            sidebarToggle.classList.remove("hidden");
         }
     });
 });
