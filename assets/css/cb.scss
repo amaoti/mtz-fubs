@@ -83,7 +83,7 @@ $theme-colors: map-merge(
 
 @media screen and (max-width: 768px) {
   .sidebar {
-      position: fixed;
+      position: sticky;
       left: -280px;
       top: 0;
       width: 270px;
@@ -99,7 +99,7 @@ $theme-colors: map-merge(
   }
 
   .sidebar-toggle {
-      position: fixed;
+      position: sticky;
       top: 15px;
       left: 15px;
       background: #da6e31;
