@@ -1,7 +1,8 @@
 <div class="sidebar">
     <h3>Table of Contents</h3>
     <ul>
-      {% for heading in content | split: '<h2' %}
+      {% assign headers = content | split: '<h2' %}
+      {% for heading in headers %}
         {% if forloop.first == false %}
           {% assign heading_text = heading | split: '</h2>' | first | strip_html %}
           {% assign heading_id = heading_text | slugify %}
