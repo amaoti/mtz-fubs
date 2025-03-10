@@ -8,11 +8,10 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 ---
 {% include sidebar.html %}
+{% include feature/jumbotron_3d.html objectid="https://www.nps.gov/common/uploads/cropped_image/primary/0A5D4829-9C6B-F62E-5CE62DBE8A2A5FC2.jpg?width=1600&quality=90&mode=crop" %}
+
+#Mt. Zio
 ## About the Collection {#about-the-collection}
-
-<br>
-<br>
-
 {% raw %}
 <div style="width: 100%; max-width: 1000px; margin: auto;">
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
