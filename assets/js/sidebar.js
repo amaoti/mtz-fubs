@@ -16,8 +16,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
     sidebarLinks.forEach(link => {
         link.addEventListener("click", () => {
-            sidebar.classList.remove("active");
-            sidebarToggle.textContent = "☰ Stories";
+         //   sidebar.classList.remove("active");
+         //   sidebarToggle.textContent = "☰ Stories";
         });
     });
 });
