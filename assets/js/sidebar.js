@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
     function toggleSidebar() {
         sidebar.classList.toggle("active");
         if (sidebar.classList.contains("active")) {
-            sidebarToggle.textContent = "✖ Close";
+            sidebarToggle.textContent = "✖ Stories";
         } else {
             sidebarToggle.textContent = "☰ Stories";
         }
