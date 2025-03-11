@@ -18,12 +18,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {% raw %}
 <div style="width: 100%; max-width: 1000px; margin: auto;">
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-    <iframe title="[Test] Nannie's Gravestone" 
+    <iframe title="[Test] Historic Sign Intro" 
       style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
       frameborder="0" allowfullscreen 
       mozallowfullscreen="true" webkitallowfullscreen="true" 
       allow="autoplay; fullscreen; xr-spatial-tracking" 
-      src="https://sketchfab.com/models/79cd12521852499499d4e9470ade6494/embed">
+      src="https://sketchfab.com/models/89f3269ca9f54a4e8bf1b705c21ea995/embed">
     </iframe>
   </div>
 </div>
@@ -69,3 +69,4 @@ Though little is known about her life, Nannie’s grave has become a point of re
   </div>
 </div>
 {% endraw %}
+
