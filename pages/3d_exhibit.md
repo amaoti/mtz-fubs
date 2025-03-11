@@ -51,9 +51,9 @@ Dr. Collin Barton Crusor Jr. (1856–1904) was a respected African American phys
 {% endraw %}
 
 ## The Story of Nanny {#nanny}
-![Crusor]({{ "/objects/crusor.JPG" | relative_url }})
+![Crusor]({{ "/assets/nanny.jpg" | relative_url }})
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Though little is known about her life, Nannie’s grave has become a point of reflection and care within the community. The simplicity of her headstone with just a name, with no dates or details, has drawn visitors who see in it a reminder of the many lives whose stories were never fully recorded. Local historians, preservationists, and descendants of those buried here have worked to honor graves like hers, ensuring that even those without extensive records are not forgotten. In that way, Nannie continues to inspire remembrance, sparking a quiet but enduring love for the history held within Mount Zion Cemetery.
 
 
 {% raw %}
