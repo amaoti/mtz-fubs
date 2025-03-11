@@ -20,4 +20,10 @@ document.addEventListener("DOMContentLoaded", function () {
          //   sidebarToggle.textContent = "☰ Stories";
         });
     });
+
+    // Add glow effect on load, then remove it after 2 seconds
+    sidebarToggle.classList.add("glow-effect");
+    setTimeout(() => {
+        sidebarToggle.classList.remove("glow-effect");
+    }, 2000);
 });

@@ -119,6 +119,15 @@ $theme-colors: map-merge(
   }
 }
 
+@keyframes glow {
+  0% { box-shadow: 0 0 5px rgba(255, 255, 0, 0.8); }
+  50% { box-shadow: 0 0 15px rgba(255, 255, 0, 1); }
+  100% { box-shadow: 0 0 5px rgba(255, 255, 0, 0.8); }
+}
+
+.glow-effect {
+  animation: glow 1.5s ease-in-out;
+}
 
 
 
