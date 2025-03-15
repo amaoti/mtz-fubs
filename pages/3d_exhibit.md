@@ -79,7 +79,7 @@ Lorem Ipsum
 {% raw %}
 <div style="width: 100%; max-width: 1000px; margin: auto;">
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-    <iframe title="Headstone of James Jeffries, lying against a tree in Mt. Zion cemetery
+    <iframe title="Headstone of James Jeffries, lying against a tree in Mt. Zion cemetery"
       style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
       frameborder="0" allowfullscreen 
       mozallowfullscreen="true" webkitallowfullscreen="true" 
