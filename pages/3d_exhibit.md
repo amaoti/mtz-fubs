@@ -71,7 +71,7 @@ Though little is known about her life, Nannie’s grave has become a point of re
 {% endraw %}
 
 ## James H. "J. H." Jeffries {#jeffries}
-![Nanny]({{ "/objects/nanny.JPG" | relative_url }}){: style="max-width: 100%; height: auto; display: block; margin: auto;"}
+![Nanny]({{ "/objects/Jeffries_Inscription.jpg" | relative_url }}){: style="max-width: 100%; height: auto; display: block; margin: auto;"}
 
 Lorem Ipsum
 
