@@ -16,6 +16,7 @@ identifier,Source Identifier,,
 type,Type,
 format,Format,
 rights,Rights,
+rights_blanket,Statement on Inclusion of Content,,
 rightsstatement,Rights Statement,,true
 field_test_1,Field Test 1,,
 field_test_2,Field Test 2,,true
