@@ -32,4 +32,9 @@ Metus commodo enim vehicula pellentesque praesent, porta id nibh quisque. Natoqu
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat 
 
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+## Removal Requests
+If you are a rights holder who wishes to remove their content from this collection. Please e-mail [aoti.work@gmail.com](aoti.work@gmail.com) to request removal. The goal of this web archive is for future educational research and preservation but all intellectual property rights will be respected.
+
+
+
 
