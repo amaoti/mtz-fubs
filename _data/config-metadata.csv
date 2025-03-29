@@ -6,6 +6,7 @@ description,Description,
 internet_archive_link,Internet Archive Capture,,true
 wacz_download_link,WACZ Download,,true
 pdf_download_link,PDF Download,,true
+live_web_link,Live Web Link (May be deprecated),,true
 subject,Subjects,true
 location,Location
 latitude,Latitude
