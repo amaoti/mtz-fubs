@@ -10,8 +10,8 @@ credits: false
 {% include sidebar.html %}
 {% include feature/jumbotron_3d.html 
    objectid="/assets/img/home_banner.jpg"
-   heading="Unmarked but Unforgotten"
-   text="Exploring the stories of the Mt. Zion & Female Union Band Society Cemeteries through 3D"
+   heading="Unforgotten"
+   text="Explore some of the stories of the Mt. Zion and Female Union Band Society Cemeteries through 3D captures"
 %}
 ## About the Collection {#about-the-collection}
 Explore parts of the Mt. Zion & Female Union Band Society cemeteries through 3D perspectives.
