@@ -91,9 +91,11 @@ Lorem Ipsum
 {% endraw %}
 
 ## Clement Beckett {#beckett}
-![Nanny]({{ "/objects/Jeffries_Inscription.jpg" | relative_url }}){: style="max-width: 100%; height: auto; display: block; margin: auto;"}
+![Nanny]({{ "/objects/beckett_photo.jpg" | relative_url }}){: style="max-width: 100%; height: auto; display: block; margin: auto;"}
 
-Lorem Ipsum
+Clement Beckett was born into slavery in Maryland in 1809. He gained his freedom in his early twenties and moved to Washington, D.C. to build a life in Georgetown. There, he worked as a provisioning merchant and lived with his wife Mary and their children at 32 Beall Street (now O Street Northwest). He was a longtime member and class leader at Ebenezer Methodist Episcopal Church, highlighting how faith and community were central to his life. Over the decades, he became a respected elder in Black Georgetown, known for the role he played in shaping the social and spiritual fabric of his neighborhood.
+
+His legacy is especially tied to the history of the Prince Hall Freemasonry in Washington. Beckett joined Social Lodge #7 in 1838 and became a founding member of the Most Worhsipful Prince Hall Grand Lodge of D.C. when it was established in 1848. He served as its first Grand Pursuviant and held several other leadership positions, including Senior Grand Warden. A few days after the founding of the lodge, he also helped establish Hiram Lodge #4 and served as its first Worshipful Master. At the time of his death in 1901, he was the last surviving member of the Lodge's original founders. Although not confirmed, he is likely buried in the Female Union Band Society Cemetery, where his name is inscribed on a shared memorial with his daughter Margaret. 
 
 
 {% raw %}
