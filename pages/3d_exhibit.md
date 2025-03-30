@@ -31,7 +31,7 @@ Explore parts of the Mt. Zion & Female Union Band Society cemeteries through 3D 
 
 ## Dr. Collin B. Crusor {#dr-collin-b-crusor}
 
-![Crusor]({{ "/objects/crusor.JPG" | relative_url }})
+![Crusor]({{ "/objects/crusor.JPG" | relative_url }}){: style="max-width: 100%; height: auto; display: block; margin: auto;"}
 
 Dr. Collin Barton Crusor Jr. (1856–1904) was a respected African American physician who served Georgetown’s "Herring Hill" community. A graduate of Howard University’s School of Medicine and Pharmacy in 1883, he provided critical medical care to Black residents in Washington, D.C., at a time when access to healthcare was deeply unequal. His work reflected the resilience and dedication of Black professionals in the post-Reconstruction era. Crusor is interred at Mount Zion Cemetery, where his grave marker stands as a testament to his legacy.
 
@@ -51,7 +51,7 @@ Dr. Collin Barton Crusor Jr. (1856–1904) was a respected African American phys
 {% endraw %}
 
 ## The Story of Nanny {#nanny}
-![Nanny]({{ "/objects/nanny.JPG" | relative_url }}){: style="max-width: 100%; height: auto; display: block; margin: auto;"}
+![Nanny]({{ "/objects/nanny.JPG" | relative_url }}){: style="max-width: 100%; height: 50%; display: block; margin: auto;"}
 
 Though little is known about her life, Nannie’s grave has become a point of reflection and care within the community. The simplicity of her headstone with just a name, with no dates or details, has drawn visitors who see in it a reminder of the many lives whose stories were never fully recorded. Local historians, preservationists, and descendants of those buried here have worked to honor graves like hers, ensuring that even those without extensive records are not forgotten. In that way, Nannie continues to inspire remembrance, sparking a quiet but enduring love for the history held within Mount Zion Cemetery.
 
