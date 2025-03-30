@@ -101,12 +101,12 @@ His legacy is especially tied to the history of the Prince Hall Freemasonry in W
 {% raw %}
 <div style="width: 100%; max-width: 1000px; margin: auto;">
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-    <iframe title="Headstone of James Jeffries, lying against a tree in Mt. Zion cemetery"
+    <iframe title="Memorial of Clement Beckett"
       style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
       frameborder="0" allowfullscreen 
       mozallowfullscreen="true" webkitallowfullscreen="true" 
       allow="autoplay; fullscreen; xr-spatial-tracking" 
-      src="https://sketchfab.com/models/3231fded789e4e1c8a33f457c2ec555b/embed">
+      src="https://sketchfab.com/models/9e8c53391f0a44c5bd9d756acec7135f/embed">
     </iframe>
   </div>
 </div>

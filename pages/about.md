@@ -14,16 +14,17 @@ credits: true
 
 ## About the Collection
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This
 
-Urna convallis laoreet leo, per ipsum aliquam. Donec adipiscing lectus dignissim curae varius fermentum viverra! Lectus mauris elit rhoncus odio at. Massa vulputate consequat aptent; primis quisque elementum. Pellentesque amet suscipit velit pellentesque tempor placerat non laoreet. Accumsan dignissim dictum; curae nunc himenaeos potenti. Dolor nunc tempor consequat venenatis vel ridiculus taciti.
 
-Metus commodo enim vehicula pellentesque praesent, porta id nibh quisque. Natoque quisque ullamcorper potenti finibus condimentum libero molestie habitant nam. Orci consequat lacinia aptent rutrum condimentum donec aliquet orci. Sem senectus id pretium felis facilisis montes? Metus lorem nam porta adipiscing vitae, tristique nulla quam. Bibendum scelerisque congue pulvinar ac porttitor fringilla penatibus. Nostra tincidunt maecenas per porta posuere pellentesque turpis nec dolor. Dolor potenti pharetra potenti felis velit. Montes suspendisse integer dis cras habitant senectus aliquet. Urna maximus est congue nisl at viverra nisl.
+This collection was assembled as a part of the CollectionBuilder 2025 LIS Student Cohort, an initiative conducted by the University of Idaho CollectionBuilder Team. With support from the Institute of Museum and Libraries Services, eight students were selected to build collections on a topic of their choice to help improve and expand CollectionBuilder.
+
+Special thanks to Lisa Fager, Patrick Tisdale, and Erika Berg, whose love for the stories of the people tied to this historic site greatly influenced
 
 ## Links & References
 
 - [Black Georgetown Foundation](https://www.mtzion-fubs.org/)
-- lorem ipsum
+- [References and Sources](https://docs.google.com/document/d/e/2PACX-1vQufkwDnKqGSBi0_f23FzgKGfat22uHXWFbVAqhmHxQZp2S7-6zETl43m5MacuPz4lO7zXoyPLvwY7j/pub)
 - lorem ipsum
 - lorem ipsum
 - lorem ipsum
