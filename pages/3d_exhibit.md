@@ -31,7 +31,7 @@ Explore parts of the Mt. Zion & Female Union Band Society cemeteries through 3D 
 
 ## Dr. Collin B. Crusor {#dr-collin-b-crusor}
 
-![Beckett]({{ "/objects/crusor.JPG" | relative_url }}){: style="max-height: 80vh; background: #f4f4f4; padding: 1rem; display: block; margin: auto;"}
+![Beckett]({{ "/objects/crusor.JPG" | relative_url }}){: style="max-height: 80vh; background:rgb(70, 68, 68); padding: 1rem; display: block; margin: auto;"}
 
 Dr. Collin Barton Crusor Jr. (1856–1904) was a respected African American physician who served Georgetown’s "Herring Hill" community. A graduate of Howard University’s School of Medicine and Pharmacy in 1883, he provided critical medical care to Black residents in Washington, D.C., at a time when access to healthcare was deeply unequal. His work reflected the resilience and dedication of Black professionals in the post-Reconstruction era. Crusor is interred at Mount Zion Cemetery, where his grave marker stands as a testament to his legacy.
 
