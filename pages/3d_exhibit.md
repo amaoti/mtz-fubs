@@ -91,7 +91,8 @@ Lorem Ipsum
 {% endraw %}
 
 ## Clement Beckett {#beckett}
-![Nanny]({{ "/objects/beckett_photo.jpg" | relative_url }}){: style="max-width: 100%; height: auto; display: block; margin: auto;"}
+![Beckett]({{ "/objects/beckett_photo.jpg" | relative_url }}){: style="max-height: 80vh; background: #f4f4f4; padding: 1rem; display: block; margin: auto;"}
+
 
 Clement Beckett was born into slavery in Maryland in 1809. He gained his freedom in his early twenties and moved to Washington, D.C. to build a life in Georgetown. There, he worked as a provisioning merchant and lived with his wife Mary and their children at 32 Beall Street (now O Street Northwest). He was a longtime member and class leader at Ebenezer Methodist Episcopal Church, highlighting how faith and community were central to his life. Over the decades, he became a respected elder in Black Georgetown, known for the role he played in shaping the social and spiritual fabric of his neighborhood.
 
