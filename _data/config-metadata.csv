@@ -1,0 +1,25 @@
+field,display_name,browse_link,external_link
+title,Title,
+creator,Creator,
+publisher,Publisher,
+date,Date Created,
+description,Description,
+live_web_link,Live Web Link,,true
+internet_archive_link,Internet Archive Capture,,true
+wacz_download_link,WACZ Download,,true
+pdf_download_link,PDF Download,,true
+capture_timeframe,Capture Timeframe,
+subject,Subjects,true
+location,Location
+latitude,Latitude
+longitude,Longitude
+source,Source
+identifier,Source Identifier,,
+type,Type,
+format,Format,
+rights,Rights,
+rights_blanket,Statement on Inclusion of Content,,
+rightsstatement,Rights Statement,,true
+field_test_1,Field Test 1,,
+field_test_2,Field Test 2,,true
+field_test_3,Field Test 3,,true
