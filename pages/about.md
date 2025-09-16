@@ -14,6 +14,11 @@ credits: true
 
 The web archive preserves a snapshot of the source sites for future research and educational use under fair use and archival exemptions (17 U.S.C. §§ 107, 108). It supports documentation of the Mount Zion and Female Union Band Society cemeteries and their role in Black Georgetown history. The content present in the collection is not used commercially or monetized in any way. No ownership over the included content is claimed. 
 
+**Requests for Removal**
+
+To request removal of any content featured in this web archive, please contact:
+
+<a href="mailto:aoti&#46;work&#64;gmail&#46;com">aoti&#46;work&#64;gmail&#46;com</a>
 
 
 
