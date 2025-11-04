@@ -327,11 +327,11 @@ After the war, he married Mary Logan in the District of Columbia and settled in 
 </div>
 
 
-Frankling is interred beside his wife Mary. Their shared memorial remembers her as a devoted wife and mother, while his notes his service to the union during the civil war. Jennings' service placed him at the center of both the struggle to end slavery but also the vision that would be crafted for society afterwards.
+Franklin is interred beside his wife Mary. Their shared memorial remembers her as a devoted wife and mother, while his notes his service to the union during the civil war. Jennings' service placed him at the center of both the struggle to end slavery but also the vision that would be crafted for society afterwards.
 
 
 <div style="background: #f4f4f4; padding: 0.75rem 1rem; margin: 2rem 0; font-size: 1rem; border-left: 4px solid #999;">
-📍 <strong>Virtual Experience:</strong> <em>View 3D model of Benjamin Frankling and Mary Logan Jenning's Shared Gravestone Below</em>
+📍 <strong>Virtual Experience:</strong> <em>View 3D model of Benjamin Franklin and Mary Logan Jenning's Shared Gravestone Below</em>
 </div>
 {% raw %}
 <div style="width: 100%; max-width: 1000px; margin: auto;">
